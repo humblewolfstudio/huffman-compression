@@ -18,7 +18,7 @@ fn main() {
     println!("Huffman Codes: {:#?}", huffman_tree.get_code_table());
 }
 ```
-### Example using 
+### Example using Huffman Table
 ```rust
 fn main() {
     let huffman_table = HashMap::from([
