@@ -2,6 +2,8 @@
 name = "huffman-compression"
 version = "0.1.0"
 edition = "2021"
+authors = ["Graydon Hoare <humblewolfstudio@gmai.com>"]
+description = "Package to encode and decode Huffman Strings"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
