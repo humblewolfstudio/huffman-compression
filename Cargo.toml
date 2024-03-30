@@ -1,10 +1,11 @@
 [package]
 name = "huffman-compression"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 authors = ["Graydon Hoare <humblewolfstudio@gmai.com>"]
 description = "Package to encode and decode Huffman Strings"
 license = "MIT OR Apache-2.0"
+repository = "https://github.com/humblewolfstudio/huffman-compression"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
